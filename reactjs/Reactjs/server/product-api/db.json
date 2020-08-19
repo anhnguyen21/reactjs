@@ -1,0 +1,54 @@
+{
+  "product": [
+    {
+      "id": "2",
+      "name": "LUMIX DMC-G2",
+      "price": "150000",
+      "img": "image/2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "LUMIX DMC-G2",
+      "price": "250000",
+      "img": "image/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "LUMIX DMC-G2",
+      "price": "120000",
+      "img": "image/6.jpg"
+    },
+    {
+      "id": "6",
+      "name": "anhnguyen",
+      "price": "1000000000",
+      "img": "image/8.jpg"
+    },
+    {
+      "id": "7",
+      "name": "anhnguyen",
+      "price": "1000000000",
+      "img": "image/5.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "name": "LUMIX DMC-G2",
+      "price": "250000",
+      "img": "image/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "LUMIX DMC-G2",
+      "price": "120000",
+      "img": "image/6.jpg"
+    },
+    {
+      "id": "6",
+      "name": "anhnguyen",
+      "price": "1000000000",
+      "img": "image/8.jpg"
+    }
+  ]
+}
